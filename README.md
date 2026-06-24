@@ -19,3 +19,4 @@ This is my first Power BI project. I built an interactive sales dashboard using 
 - Sales grew significantly after 2016.
 
 ## Dashboard Preview
+Dashboard.png
