@@ -20,4 +20,4 @@ This is my first Power BI project. I built an interactive sales dashboard using 
 
 ## Dashboard Preview
 ![Sales Dashboard]
-(https://github.com/hamid-hasan/Power-Bi-sales-dash-board/blob/main/Dashboard.png?raw=true)
+(https://raw.githubusercontent.com/hamid-hasan/Power-Bi-sales-dash-board/refs/heads/main/Dashboard.png)
