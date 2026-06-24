@@ -1,6 +1,6 @@
 # Sales Analysis Dashboard (Power BI)
 
-This is my first Power BI project. I built an interactive sales dashboard using a supermarket sales dataset.
+This is my first Power BI project after taking long break. I built an interactive sales dashboard using a supermarket sales dataset.
 
 ## Dashboard Features
 - Total Sales KPI
